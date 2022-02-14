@@ -38,7 +38,6 @@ h3{
 
 .eth{
     position: relative;
-    right: 52px;
 }
 
 .info_2{
@@ -47,8 +46,8 @@ h3{
 }
 
 .info2{
-    position: relative; 
-    left: 52px;
+    position: relative;
+    left: 90px;
 }
 
 .maker{
@@ -61,10 +60,10 @@ h3{
 }
 
 .photos{
-    position: relative;
-    right: 20px;
-    top: 1.5px;
-    border-image-width: 2px;
+    border: 1px solid var(--White);
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
 }
 
 
@@ -74,12 +73,11 @@ h3{
 
 .Tittle{
     position: relative;
-    right: 50px;
 }
 
 .message1{
     position: relative;
-    left: 10px;
+    
 }
 
 .message{
@@ -106,4 +104,8 @@ h3{
 
 .mal{
     color: hsl(0, 0%, 100%);
+}
+.last{
+    position:relative;
+    left: 15px;
 }
