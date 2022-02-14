@@ -1,0 +1,109 @@
+.Equi-img{
+    position: relative;
+    height: auto;
+    width: 100%;
+}
+
+.backgrnd{
+    background-color: hsl(215, 54%, 11%);
+    
+}
+
+.card{
+    background-color: hsl(216, 50%, 16%);
+    width: 20%;
+    position: relative;
+    margin: 200px auto 200px auto;
+    border-radius: 25px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 20px rgba(0, 0, 0, 0.19);
+    
+}
+
+
+h3{
+    color: white;
+    position: relative;
+    left: 0px;
+}
+
+.message{
+    color: white;
+}
+
+.info1{
+    color: turquoise;
+    display: inline-block;
+}
+
+.eth{
+    position: relative;
+    right: 52px;
+}
+
+.info_2{
+    color: white;
+    display: inline-block;
+}
+
+.info2{
+    position: relative; 
+    left: 52px;
+}
+
+.maker{
+    display: inline;
+}
+
+.photos{
+    height: 30px;
+    width: 30px;
+}
+
+.photos{
+    position: relative;
+    right: 20px;
+    top: 1.5px;
+    border-image-width: 2px;
+}
+
+
+.lines{
+    color: hsl(215, 32%, 27%);
+}
+
+.Tittle{
+    position: relative;
+    right: 50px;
+}
+
+.message1{
+    position: relative;
+    left: 10px;
+}
+
+.message{
+    text-align: left;
+    color: hsl(215, 51%, 70%);
+}
+
+.bottom-container{
+    position: relative;
+    display: inline-block;
+    bottom: 3px;
+}
+
+.last{
+    position: relative;
+    display: inline-block;
+    bottom: 9px;
+    right: 5px;
+}
+
+.maker{
+    color: hsl(215, 51%, 70%);
+}
+
+.mal{
+    color: hsl(0, 0%, 100%);
+}
